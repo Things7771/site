@@ -1,7 +1,12 @@
+/* Credits by 
+
+   W3School
+
+            */
 /* W3.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
 html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
-html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
+html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0;}
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section{display:block}summary{display:list-item}
 audio,canvas,progress,video{display:inline-block}progress{vertical-align:baseline}
 audio:not([controls]){display:none;height:0}[hidden],template{display:none}
@@ -233,10 +238,11 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-border-dark-grey,.w3-hover-border-dark-grey:hover,.w3-border-dark-gray,.w3-hover-border-dark-gray:hover{border-color:#616161!important}
 .w3-border-pale-red,.w3-hover-border-pale-red:hover{border-color:#ffe7e7!important}.w3-border-pale-green,.w3-hover-border-pale-green:hover{border-color:#e7ffe7!important}
 .w3-border-pale-yellow,.w3-hover-border-pale-yellow:hover{border-color:#ffffcc!important}.w3-border-pale-blue,.w3-hover-border-pale-blue:hover{border-color:#e7ffff!important}
-img{transition: 2s;border-color: #000;}
-img:hover{transform: scale(1.03);}
-img.logo{width: 340px; height: auto;}
-.date{color: #464646;}
-.blue-background{background-color: #2195f33f;}
-a {text-decoration:none;}
-body{user-select: none;}
+img{transition:2s;border-color: #000;}
+img:hover{transform:scale(1.03);}
+img.logo{width:340px;height:auto;}
+.date{color:#464646;}
+.blue-background{background-color:#2195f33f;}
+a{text-decoration:none;}
+body{user-select:none;}
+div,img{border-radius: 10px;}
