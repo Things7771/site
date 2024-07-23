@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(155, 155, 155);
+    color: rgb(70, 70, 70);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.page {
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
